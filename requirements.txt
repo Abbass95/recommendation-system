@@ -1,0 +1,13 @@
+numpy
+pandas
+seaborn
+matplotlib
+scipy
+scikit-learn
+yellowbrick
+tabulate
+plotly
+statsmodels
+mlxtend
+torch
+torch-geometric
