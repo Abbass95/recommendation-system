@@ -1,4 +1,4 @@
-# 🛒 Recommendation System for Retail (Leroy Merlin Case Study)
+# 🛒 Recommendation System for Retail
 
 This project explores and compares several recommendation models to suggest the **top 3 products** a customer is likely to purchase on their next visit to a retail store, such as **Leroy Merlin**. The models range from simple baselines to advanced graph-based approaches, and are evaluated using both **ranking metrics** and **basket-based evaluation**.
 
